@@ -63,7 +63,7 @@ const colors = {
   warning: '#f5803e',
   danger: '#e63757',
   light: '#f9fafd',
-  dark: '#0A2640',
+  dark: '#3674ad',
 };
 
 const grays = {
